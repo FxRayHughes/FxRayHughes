@@ -50,16 +50,17 @@
 
 <div align="center">
 
-<a href="https://github.com/FxRayHughes">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FxRayHughes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/FxRayHughes">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxRayHughes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=FxRayHughes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=FxRayHughes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FxRayHughes&theme=tokyonight" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FxRayHughes&theme=tokyonight" alt="Most Commit Language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FxRayHughes&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FxRayHughes&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 
 </div>
 
