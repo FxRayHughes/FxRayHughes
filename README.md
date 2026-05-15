@@ -18,6 +18,7 @@
 - 🔧 **TabooLib** 核心成员 — Minecraft 插件开发框架
 - 🎮 热衷于 Minecraft 服务端开发与工具链建设
 - 🌱 正在探索 TypeScript & Go 全栈开发
+- 🎵 Vibe Coding 实践者 — 用 AI 加速创意落地，让灵感即刻变为代码
 
 ## 精选项目
 
@@ -49,14 +50,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FxRayHughes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxRayHughes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<a href="https://github.com/FxRayHughes">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FxRayHughes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/FxRayHughes">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxRayHughes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
-</div>
+<br/>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FxRayHughes&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=FxRayHughes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
