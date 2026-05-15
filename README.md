@@ -28,13 +28,12 @@
 |------|------|------|--------|:------------:|
 | [**taboowiki**](https://github.com/FxRayHughes/taboowiki) | TabooLib 文档站 | JavaScript | 126 MB | 68 |
 | **Lotus** | 私有项目 | Kotlin | 63 MB | 58 |
-| **GermPlugin-Group** | 萌芽引擎插件组 | Java | 26 MB | 25 |
-| **VulcanPlus** | 私有项目 | Kotlin | 52 MB | 17 |
 | [**TabooCore**](https://github.com/FxRayHughes/TabooCore) | 让 TabooLib 运行在原版 MC 服务端的 Java Agent | Kotlin | 335 KB | 16 |
 | [**SX-Item**](https://github.com/FxRayHughes/SX-Item) | Minecraft 物品管理插件 | Java | 583 MB | 16 |
 | [**SXItemStyrke**](https://github.com/FxRayHughes/SXItemStyrke) | SX-Item 属性强化模块 | Kotlin | 16 MB | 12 |
 | [**chaobot**](https://github.com/FxRayHughes/chaobot) | 基于 OneBot-v11 的鸣潮 Bot | Kotlin | 94 MB | 12 |
 | **Other** | 新一代 SDK 框架 | Kotlin | 38 MB | 9 |
+| [**fast-update-server**](https://github.com/FxRayHughes/fast-update-server) | 高性能 Electron 更新分发服务器 | Go | 36 KB | 3 |
 
 ## 技术栈
 
