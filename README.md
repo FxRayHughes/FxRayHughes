@@ -15,7 +15,6 @@
 
 ## 关于我
 
-- 🎓 吉林电子信息职业技术学院
 - 🔧 **TabooLib** 核心成员 — Minecraft 插件开发框架
 - 🎮 热衷于 Minecraft 服务端开发与工具链建设
 - 🌱 正在探索 TypeScript & Go 全栈开发
